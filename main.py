@@ -40,7 +40,11 @@ risk_factors = {
     "STP": 1.13,
     "LCT": 1.12,
     "EGT": 1.35,
-    "BPF": 1.26
+    "BPF": 1.26,
+    "FSL": 1.38,
+    "PBD": 1.38,
+    "AGR": 1.2,
+    "HSP": 1.16
 }
 
 # Delivery time risk factors
